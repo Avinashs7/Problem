@@ -1,3 +1,4 @@
+/*Question: There is a predefined set of rupees denomination by which a shopkeeper has to return change to customer based on customer's choice whether to recieve the number of coins more in number or less*/
 #include<bits/stdc++.h>
 using namespace std;
 void changeMore(float denom[2][5],float change)
