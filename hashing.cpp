@@ -1,3 +1,4 @@
+/*The problem is about the least positive number missing in an array*/
 #include<bits/stdc++.h>
 using namespace std;
 int main()
@@ -19,5 +20,4 @@ int main()
             break;
         }
     }
-
 }
